@@ -3,7 +3,7 @@
 
 本项目基于小脚丫STEP-MAX10-02与拓展板，
 可实现电子琴和音乐盒功能，使用拨码切换，音乐盒目前内置两个歌曲，可用拨码切换。
-demo视频：【星际拓荒-蜂鸣器版】 https://www.bilibili.com/video/BV1Az4y1q7yj/?share_source=copy_web&vd_source=ebd38346d6ac2e921c69475103c0ac37
+demo视频：[星际拓荒-蜂鸣器版]: https://www.bilibili.com/video/BV1Az4y1q7yj/?share_source=copy_web&vd_source=ebd38346d6ac2e921c69475103c0ac37
 
 欢迎star，如有优化欢迎push！
 
