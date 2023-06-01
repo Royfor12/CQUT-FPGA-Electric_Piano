@@ -1,0 +1,269 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 100C Model Setup 'CLK_12'
+Slack : -10.260
+TNS   : -172.544
+
+Type  : Slow 1200mV 100C Model Setup 'inst|altpll_component|auto_generated|pll1|clk[1]'
+Slack : -3.967
+TNS   : -41.780
+
+Type  : Slow 1200mV 100C Model Setup 'FDIV:inst3|FULL'
+Slack : -2.432
+TNS   : -28.943
+
+Type  : Slow 1200mV 100C Model Setup 'Electric_Piano:inst1|Array_KeyBoard:u1|clk_200hz'
+Slack : -1.293
+TNS   : -49.273
+
+Type  : Slow 1200mV 100C Model Setup 'SPKER:inst9|SPKS'
+Slack : 0.299
+TNS   : 0.000
+
+Type  : Slow 1200mV 100C Model Setup 'inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 499995.754
+TNS   : 0.000
+
+Type  : Slow 1200mV 100C Model Hold 'inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.366
+TNS   : 0.000
+
+Type  : Slow 1200mV 100C Model Hold 'SPKER:inst9|SPKS'
+Slack : 0.393
+TNS   : 0.000
+
+Type  : Slow 1200mV 100C Model Hold 'Electric_Piano:inst1|Array_KeyBoard:u1|clk_200hz'
+Slack : 0.433
+TNS   : 0.000
+
+Type  : Slow 1200mV 100C Model Hold 'FDIV:inst3|FULL'
+Slack : 0.437
+TNS   : 0.000
+
+Type  : Slow 1200mV 100C Model Hold 'CLK_12'
+Slack : 0.654
+TNS   : 0.000
+
+Type  : Slow 1200mV 100C Model Hold 'inst|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 0.656
+TNS   : 0.000
+
+Type  : Slow 1200mV 100C Model Recovery 'FDIV:inst3|FULL'
+Slack : -1.766
+TNS   : -14.128
+
+Type  : Slow 1200mV 100C Model Recovery 'inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 499995.107
+TNS   : 0.000
+
+Type  : Slow 1200mV 100C Model Removal 'inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 1.401
+TNS   : 0.000
+
+Type  : Slow 1200mV 100C Model Removal 'FDIV:inst3|FULL'
+Slack : 1.545
+TNS   : 0.000
+
+Type  : Slow 1200mV 100C Model Minimum Pulse Width 'Electric_Piano:inst1|Array_KeyBoard:u1|clk_200hz'
+Slack : -1.403
+TNS   : -78.568
+
+Type  : Slow 1200mV 100C Model Minimum Pulse Width 'FDIV:inst3|FULL'
+Slack : -1.403
+TNS   : -21.045
+
+Type  : Slow 1200mV 100C Model Minimum Pulse Width 'SPKER:inst9|SPKS'
+Slack : -1.403
+TNS   : -1.403
+
+Type  : Slow 1200mV 100C Model Minimum Pulse Width 'CLK_12'
+Slack : 41.368
+TNS   : 0.000
+
+Type  : Slow 1200mV 100C Model Minimum Pulse Width 'inst|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 499.743
+TNS   : 0.000
+
+Type  : Slow 1200mV 100C Model Minimum Pulse Width 'inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 249998.754
+TNS   : 0.000
+
+Type  : Slow 1200mV -40C Model Setup 'CLK_12'
+Slack : -9.007
+TNS   : -151.335
+
+Type  : Slow 1200mV -40C Model Setup 'inst|altpll_component|auto_generated|pll1|clk[1]'
+Slack : -3.130
+TNS   : -32.760
+
+Type  : Slow 1200mV -40C Model Setup 'FDIV:inst3|FULL'
+Slack : -2.050
+TNS   : -23.407
+
+Type  : Slow 1200mV -40C Model Setup 'Electric_Piano:inst1|Array_KeyBoard:u1|clk_200hz'
+Slack : -1.152
+TNS   : -44.559
+
+Type  : Slow 1200mV -40C Model Setup 'SPKER:inst9|SPKS'
+Slack : 0.384
+TNS   : 0.000
+
+Type  : Slow 1200mV -40C Model Setup 'inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 499996.065
+TNS   : 0.000
+
+Type  : Slow 1200mV -40C Model Hold 'inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.317
+TNS   : 0.000
+
+Type  : Slow 1200mV -40C Model Hold 'SPKER:inst9|SPKS'
+Slack : 0.339
+TNS   : 0.000
+
+Type  : Slow 1200mV -40C Model Hold 'Electric_Piano:inst1|Array_KeyBoard:u1|clk_200hz'
+Slack : 0.395
+TNS   : 0.000
+
+Type  : Slow 1200mV -40C Model Hold 'FDIV:inst3|FULL'
+Slack : 0.397
+TNS   : 0.000
+
+Type  : Slow 1200mV -40C Model Hold 'CLK_12'
+Slack : 0.550
+TNS   : 0.000
+
+Type  : Slow 1200mV -40C Model Hold 'inst|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 0.572
+TNS   : 0.000
+
+Type  : Slow 1200mV -40C Model Recovery 'FDIV:inst3|FULL'
+Slack : -1.419
+TNS   : -11.352
+
+Type  : Slow 1200mV -40C Model Recovery 'inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 499995.529
+TNS   : 0.000
+
+Type  : Slow 1200mV -40C Model Removal 'inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 1.249
+TNS   : 0.000
+
+Type  : Slow 1200mV -40C Model Removal 'FDIV:inst3|FULL'
+Slack : 1.367
+TNS   : 0.000
+
+Type  : Slow 1200mV -40C Model Minimum Pulse Width 'Electric_Piano:inst1|Array_KeyBoard:u1|clk_200hz'
+Slack : -1.403
+TNS   : -78.568
+
+Type  : Slow 1200mV -40C Model Minimum Pulse Width 'FDIV:inst3|FULL'
+Slack : -1.403
+TNS   : -21.045
+
+Type  : Slow 1200mV -40C Model Minimum Pulse Width 'SPKER:inst9|SPKS'
+Slack : -1.403
+TNS   : -1.403
+
+Type  : Slow 1200mV -40C Model Minimum Pulse Width 'CLK_12'
+Slack : 41.406
+TNS   : 0.000
+
+Type  : Slow 1200mV -40C Model Minimum Pulse Width 'inst|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 499.729
+TNS   : 0.000
+
+Type  : Slow 1200mV -40C Model Minimum Pulse Width 'inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 249998.751
+TNS   : 0.000
+
+Type  : Fast 1200mV -40C Model Setup 'CLK_12'
+Slack : -4.163
+TNS   : -70.445
+
+Type  : Fast 1200mV -40C Model Setup 'inst|altpll_component|auto_generated|pll1|clk[1]'
+Slack : -1.211
+TNS   : -12.610
+
+Type  : Fast 1200mV -40C Model Setup 'FDIV:inst3|FULL'
+Slack : -0.400
+TNS   : -3.137
+
+Type  : Fast 1200mV -40C Model Setup 'Electric_Piano:inst1|Array_KeyBoard:u1|clk_200hz'
+Slack : -0.214
+TNS   : -3.521
+
+Type  : Fast 1200mV -40C Model Setup 'SPKER:inst9|SPKS'
+Slack : 0.709
+TNS   : 0.000
+
+Type  : Fast 1200mV -40C Model Setup 'inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 499997.136
+TNS   : 0.000
+
+Type  : Fast 1200mV -40C Model Hold 'inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.149
+TNS   : 0.000
+
+Type  : Fast 1200mV -40C Model Hold 'Electric_Piano:inst1|Array_KeyBoard:u1|clk_200hz'
+Slack : 0.156
+TNS   : 0.000
+
+Type  : Fast 1200mV -40C Model Hold 'SPKER:inst9|SPKS'
+Slack : 0.161
+TNS   : 0.000
+
+Type  : Fast 1200mV -40C Model Hold 'FDIV:inst3|FULL'
+Slack : 0.167
+TNS   : 0.000
+
+Type  : Fast 1200mV -40C Model Hold 'CLK_12'
+Slack : 0.230
+TNS   : 0.000
+
+Type  : Fast 1200mV -40C Model Hold 'inst|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 0.233
+TNS   : 0.000
+
+Type  : Fast 1200mV -40C Model Recovery 'FDIV:inst3|FULL'
+Slack : -0.166
+TNS   : -1.328
+
+Type  : Fast 1200mV -40C Model Recovery 'inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 499996.783
+TNS   : 0.000
+
+Type  : Fast 1200mV -40C Model Removal 'inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 0.559
+TNS   : 0.000
+
+Type  : Fast 1200mV -40C Model Removal 'FDIV:inst3|FULL'
+Slack : 0.617
+TNS   : 0.000
+
+Type  : Fast 1200mV -40C Model Minimum Pulse Width 'Electric_Piano:inst1|Array_KeyBoard:u1|clk_200hz'
+Slack : -1.000
+TNS   : -56.000
+
+Type  : Fast 1200mV -40C Model Minimum Pulse Width 'FDIV:inst3|FULL'
+Slack : -1.000
+TNS   : -15.000
+
+Type  : Fast 1200mV -40C Model Minimum Pulse Width 'SPKER:inst9|SPKS'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV -40C Model Minimum Pulse Width 'CLK_12'
+Slack : 41.118
+TNS   : 0.000
+
+Type  : Fast 1200mV -40C Model Minimum Pulse Width 'inst|altpll_component|auto_generated|pll1|clk[1]'
+Slack : 499.765
+TNS   : 0.000
+
+Type  : Fast 1200mV -40C Model Minimum Pulse Width 'inst|altpll_component|auto_generated|pll1|clk[0]'
+Slack : 249998.776
+TNS   : 0.000
+
+------------------------------------------------------------
