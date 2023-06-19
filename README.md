@@ -1,6 +1,6 @@
 # CQUT-FPGA-Electric_Piano
 重庆理工大学电子信息工程结课大作业\
-现在已加入MIT License\
+请遵守MIT License\
 本项目基于小脚丫STEP-MAX10-02与拓展板，
 可实现电子琴和音乐盒功能，使用拨码切换，音乐盒目前内置两个歌曲，可用拨码切换。\
 核心程序均在Electric_Piano/core文件夹中，Electric_Piano/core/piano为电子琴程序\
