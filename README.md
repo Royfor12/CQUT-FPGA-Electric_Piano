@@ -1,4 +1,4 @@
-# CQUT-FPGA-Electric_Piano
+# CQUT-FPGA-Electric_Piano![](https://img.shields.io/badge/license-MIT-blue)
 重庆理工大学电子信息工程结课大作业\
 请遵守MIT License\
 本项目基于小脚丫STEP-MAX10-02与拓展板，
